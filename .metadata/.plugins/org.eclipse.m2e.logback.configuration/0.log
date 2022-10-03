@@ -1,0 +1,586 @@
+2022-09-20 15:19:38,364 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-20 15:21:32,969 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:E-Gift_Card:0.0.1-SNAPSHOT @ E:\BootCampRestController\E-Gift_Card\pom.xml.
+2022-09-20 15:21:34,740 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:E-Gift_Card:0.0.1-SNAPSHOT @ E:\BootCampRestController\E-Gift_Card\pom.xml.
+2022-09-20 15:21:43,825 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-20 15:21:43,825 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-20 15:21:43,832 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-20 15:21:43,861 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-20 15:21:43,863 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-20 15:21:43,864 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-20 15:21:43,864 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-20 15:21:45,835 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:E-Gift_Card:0.0.1-SNAPSHOT @ E:\BootCampRestController\E-Gift_Card\pom.xml.
+2022-09-20 15:21:49,415 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-20 15:21:49,415 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-20 15:21:49,419 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-20 15:21:49,441 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-20 15:21:49,446 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-20 15:21:49,447 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-20 15:21:49,447 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-20 15:25:52,638 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-20 16:24:04,460 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-20 16:42:57,024 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-20 16:42:57,026 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-20 16:42:57,032 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-20 16:42:57,057 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-20 16:42:57,060 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-20 16:42:57,060 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-20 16:42:57,061 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-21 01:57:55,717 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-21 22:26:40,455 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-09-21 22:26:42,537 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2022-09-23 15:38:35,010 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-09-23 20:37:29,160 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:37:29,163 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-23 20:37:29,166 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-23 20:37:29,185 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-23 20:37:29,187 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:37:29,188 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-23 20:37:29,188 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-23 20:46:08,129 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-23 20:47:15,837 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:47:15,839 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-23 20:47:15,846 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-23 20:47:15,868 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-23 20:47:15,871 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:47:15,871 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-23 20:47:15,871 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-23 23:47:06,609 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-23 23:52:57,100 [Worker-18: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 23:52:57,105 [Worker-18: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-23 23:52:57,114 [Worker-18: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-23 23:52:57,150 [Worker-18: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-23 23:52:57,155 [Worker-18: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 23:52:57,156 [Worker-18: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-23 23:52:57,156 [Worker-18: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-23 23:56:52,615 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 23:56:52,615 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-23 23:56:52,624 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-23 23:56:52,664 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-23 23:56:52,668 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 23:56:52,668 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-23 23:56:52,669 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-24 00:12:53,343 [Worker-24: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 00:12:53,344 [Worker-24: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-24 00:12:53,345 [Worker-24: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-24 00:12:53,383 [Worker-24: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-24 00:12:53,386 [Worker-24: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 00:12:53,387 [Worker-24: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-24 00:12:53,387 [Worker-24: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-24 10:48:32,609 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-24 11:07:13,761 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 11:07:13,764 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-24 11:07:13,769 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-24 11:07:13,797 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-24 11:07:13,801 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 11:07:13,801 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-24 11:07:13,801 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-26 09:51:25,208 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-09-26 09:52:01,297 [Worker-8: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 09:52:01,299 [Worker-8: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-26 09:52:01,306 [Worker-8: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-26 09:52:01,345 [Worker-8: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-26 09:52:01,350 [Worker-8: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 09:52:01,351 [Worker-8: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-26 09:52:01,351 [Worker-8: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-26 15:23:29,470 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-26 15:28:47,112 [Worker-10: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 15:28:47,115 [Worker-10: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-26 15:28:47,118 [Worker-10: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-26 15:28:47,137 [Worker-10: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-26 15:28:47,140 [Worker-10: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 15:28:47,140 [Worker-10: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-26 15:28:47,140 [Worker-10: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-26 20:34:17,649 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-26 20:55:49,240 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 20:55:49,243 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-26 20:55:49,249 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-26 20:55:49,277 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-26 20:55:49,281 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 20:55:49,281 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-26 20:55:49,281 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-26 20:56:40,827 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 20:56:40,827 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-26 20:56:40,837 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-26 20:56:40,894 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-26 20:56:40,899 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 20:56:40,899 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-26 20:56:40,899 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-26 21:00:29,233 [Worker-12: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 21:00:29,233 [Worker-12: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-26 21:00:29,234 [Worker-12: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-26 21:00:29,265 [Worker-12: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-26 21:00:29,269 [Worker-12: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 21:00:29,269 [Worker-12: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-26 21:00:29,269 [Worker-12: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-26 21:03:38,573 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 21:03:38,573 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-26 21:03:38,574 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-26 21:03:38,607 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-26 21:03:38,611 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 21:03:38,611 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-26 21:03:38,611 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-26 21:07:58,523 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 21:07:58,523 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-26 21:07:58,524 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-26 21:07:58,529 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-26 21:07:58,531 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 21:07:58,531 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-26 21:07:58,531 [Worker-9: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-26 21:09:27,904 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 21:09:27,904 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-26 21:09:27,905 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-26 21:09:27,911 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-26 21:09:27,914 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 21:09:27,914 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-26 21:09:27,914 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-27 09:18:32,534 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-27 09:42:41,620 [Worker-12: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-27 09:42:41,624 [Worker-12: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-27 09:42:41,628 [Worker-12: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-27 09:42:41,654 [Worker-12: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-27 09:42:41,658 [Worker-12: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-27 09:42:41,659 [Worker-12: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-27 09:42:41,659 [Worker-12: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-27 15:25:54,863 [Worker-20: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-27 15:25:54,864 [Worker-20: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-27 15:25:54,874 [Worker-20: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-27 15:25:54,892 [Worker-20: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-27 15:25:54,897 [Worker-20: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-27 15:25:54,897 [Worker-20: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-27 15:25:54,898 [Worker-20: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-27 22:46:10,648 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-09-28 10:02:51,366 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-28 23:13:28,692 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-09-29 09:32:58,087 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-29 09:33:59,734 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 09:33:59,735 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 09:33:59,740 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 09:33:59,760 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 09:33:59,763 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 09:33:59,763 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 09:33:59,763 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 12:27:08,959 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-29 12:42:20,760 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 12:42:20,809 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 12:42:20,812 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 12:42:20,834 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 12:42:20,839 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 12:42:20,839 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 12:42:20,839 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 12:50:19,198 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 12:50:19,198 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 12:50:19,204 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 12:50:19,213 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 12:50:19,217 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 12:50:19,218 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 12:50:19,218 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 12:53:56,174 [Worker-13: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 12:53:56,174 [Worker-13: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 12:53:56,175 [Worker-13: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 12:53:56,180 [Worker-13: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 12:53:56,183 [Worker-13: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 12:53:56,183 [Worker-13: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 12:53:56,183 [Worker-13: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 12:55:50,722 [Worker-16: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 12:55:50,722 [Worker-16: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 12:55:50,726 [Worker-16: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 12:55:50,737 [Worker-16: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 12:55:50,739 [Worker-16: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 12:55:50,739 [Worker-16: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 12:55:50,739 [Worker-16: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 13:10:35,778 [Worker-26: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 13:10:35,778 [Worker-26: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 13:10:35,779 [Worker-26: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 13:10:35,786 [Worker-26: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 13:10:35,789 [Worker-26: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 13:10:35,789 [Worker-26: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 13:10:35,789 [Worker-26: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 13:35:04,771 [Worker-34: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 13:35:04,771 [Worker-34: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 13:35:04,771 [Worker-34: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 13:35:04,797 [Worker-34: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 13:35:04,807 [Worker-34: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 13:35:04,807 [Worker-34: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 13:35:04,808 [Worker-34: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 13:53:27,946 [Worker-40: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 13:53:27,946 [Worker-40: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 13:53:27,947 [Worker-40: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 13:53:27,964 [Worker-40: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 13:53:27,967 [Worker-40: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 13:53:27,967 [Worker-40: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 13:53:27,967 [Worker-40: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 14:17:57,408 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-29 14:26:12,346 [Worker-8: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 14:26:12,348 [Worker-8: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 14:26:12,352 [Worker-8: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 14:26:12,372 [Worker-8: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 14:26:12,376 [Worker-8: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 14:26:12,376 [Worker-8: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 14:26:12,376 [Worker-8: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 14:40:24,266 [Worker-5: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 14:40:24,266 [Worker-5: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 14:40:24,269 [Worker-5: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 14:40:24,277 [Worker-5: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 14:40:24,281 [Worker-5: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 14:40:24,281 [Worker-5: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 14:40:24,282 [Worker-5: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 14:44:14,806 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 14:44:14,811 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 14:44:14,811 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 14:44:14,826 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 14:44:14,828 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 14:44:14,828 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 14:44:14,828 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 16:14:08,347 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:14:08,351 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:14:08,352 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 16:14:08,457 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 16:14:08,461 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:14:08,461 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:14:08,461 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 16:16:38,671 [Worker-22: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:16:38,671 [Worker-22: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:16:38,673 [Worker-22: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 16:16:38,692 [Worker-22: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 16:16:38,700 [Worker-22: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:16:38,700 [Worker-22: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:16:38,700 [Worker-22: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 16:17:49,924 [Worker-21: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:17:49,924 [Worker-21: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:17:49,926 [Worker-21: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 16:17:49,936 [Worker-21: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 16:17:49,940 [Worker-21: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:17:49,940 [Worker-21: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:17:49,940 [Worker-21: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 16:19:50,406 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:19:50,406 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:19:50,412 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 16:19:50,435 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 16:19:50,437 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:19:50,437 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:19:50,437 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 16:21:24,118 [Worker-21: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:21:24,118 [Worker-21: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:21:24,119 [Worker-21: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 16:21:24,135 [Worker-21: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 16:21:24,138 [Worker-21: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:21:24,139 [Worker-21: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:21:24,140 [Worker-21: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 16:24:17,131 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:24:17,132 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:24:17,132 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 16:24:17,141 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 16:24:17,144 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:24:17,145 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:24:17,145 [Worker-19: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 16:34:05,026 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:34:05,026 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:34:05,028 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 16:34:05,039 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 16:34:05,041 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:34:05,041 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:34:05,042 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 16:34:18,503 [Worker-30: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:34:18,503 [Worker-30: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:34:18,504 [Worker-30: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 16:34:18,512 [Worker-30: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 16:34:18,515 [Worker-30: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:34:18,516 [Worker-30: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:34:18,516 [Worker-30: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 16:38:07,100 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:38:07,100 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:38:07,101 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 16:38:07,107 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 16:38:07,109 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:38:07,109 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:38:07,109 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 16:38:52,238 [Worker-29: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:38:52,238 [Worker-29: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:38:52,238 [Worker-29: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 16:38:52,246 [Worker-29: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 16:38:52,248 [Worker-29: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:38:52,248 [Worker-29: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:38:52,248 [Worker-29: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 16:40:45,472 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:40:45,472 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:40:45,473 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 16:40:45,480 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 16:40:45,482 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 16:40:45,482 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 16:40:45,482 [Worker-14: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 17:20:26,383 [Worker-32: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 17:20:26,383 [Worker-32: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 17:20:26,384 [Worker-32: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 17:20:26,401 [Worker-32: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 17:20:26,410 [Worker-32: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 17:20:26,410 [Worker-32: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 17:20:26,410 [Worker-32: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 18:19:42,353 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-29 18:20:08,377 [Worker-1: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 18:20:08,379 [Worker-1: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 18:20:08,381 [Worker-1: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 18:20:08,401 [Worker-1: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 18:20:08,405 [Worker-1: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 18:20:08,405 [Worker-1: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 18:20:08,406 [Worker-1: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 18:38:35,373 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 18:38:35,373 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 18:38:35,376 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 18:38:35,415 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 18:38:35,418 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 18:38:35,418 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 18:38:35,418 [Worker-11: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 18:39:44,571 [Worker-4: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 18:39:44,571 [Worker-4: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 18:39:44,572 [Worker-4: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 18:39:44,582 [Worker-4: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 18:39:44,586 [Worker-4: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 18:39:44,586 [Worker-4: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 18:39:44,586 [Worker-4: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 18:41:30,897 [Worker-1: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 18:41:30,897 [Worker-1: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 18:41:30,898 [Worker-1: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 18:41:30,904 [Worker-1: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 18:41:30,910 [Worker-1: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 18:41:30,910 [Worker-1: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 18:41:30,910 [Worker-1: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 18:42:49,008 [Worker-3: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 18:42:49,008 [Worker-3: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 18:42:49,010 [Worker-3: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 18:42:49,016 [Worker-3: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 18:42:49,019 [Worker-3: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 18:42:49,019 [Worker-3: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 18:42:49,019 [Worker-3: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 18:54:07,493 [Worker-15: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 18:54:07,493 [Worker-15: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 18:54:07,497 [Worker-15: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 18:54:07,504 [Worker-15: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 18:54:07,507 [Worker-15: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 18:54:07,507 [Worker-15: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 18:54:07,507 [Worker-15: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 18:55:37,118 [Worker-18: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 18:55:37,118 [Worker-18: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 18:55:37,119 [Worker-18: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 18:55:37,174 [Worker-18: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 18:55:37,178 [Worker-18: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 18:55:37,179 [Worker-18: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 18:55:37,179 [Worker-18: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 19:06:09,539 [Worker-3: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 19:06:09,539 [Worker-3: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 19:06:09,540 [Worker-3: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 19:06:09,550 [Worker-3: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 19:06:09,554 [Worker-3: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 19:06:09,554 [Worker-3: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 19:06:09,554 [Worker-3: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 19:17:07,204 [Worker-27: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 19:17:07,204 [Worker-27: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 19:17:07,205 [Worker-27: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 19:17:07,215 [Worker-27: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 19:17:07,217 [Worker-27: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 19:17:07,217 [Worker-27: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 19:17:07,217 [Worker-27: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-29 23:27:03,168 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-09-29 23:27:36,302 [Worker-4: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 23:27:36,304 [Worker-4: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 23:27:36,309 [Worker-4: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 23:27:36,339 [Worker-4: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-29 23:27:36,344 [Worker-4: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 23:27:36,344 [Worker-4: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-29 23:27:36,344 [Worker-4: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 01:10:51,801 [Worker-0: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 01:10:51,802 [Worker-0: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 01:10:51,806 [Worker-0: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-30 01:10:51,856 [Worker-0: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 01:10:51,859 [Worker-0: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 01:10:51,859 [Worker-0: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 01:10:51,859 [Worker-0: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 01:20:32,788 [Worker-20: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 01:20:32,789 [Worker-20: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 01:20:32,789 [Worker-20: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-30 01:20:32,810 [Worker-20: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 01:20:32,812 [Worker-20: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 01:20:32,812 [Worker-20: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 01:20:32,813 [Worker-20: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 01:47:26,372 [Worker-22: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 01:47:26,372 [Worker-22: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 01:47:26,373 [Worker-22: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-30 01:47:26,417 [Worker-22: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 01:47:26,420 [Worker-22: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 01:47:26,420 [Worker-22: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 01:47:26,420 [Worker-22: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 01:49:19,427 [Worker-27: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 01:49:19,427 [Worker-27: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 01:49:19,428 [Worker-27: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-30 01:49:19,434 [Worker-27: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 01:49:19,437 [Worker-27: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 01:49:19,437 [Worker-27: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 01:49:19,437 [Worker-27: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 01:51:01,485 [Worker-28: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 01:51:01,486 [Worker-28: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 01:51:01,487 [Worker-28: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-30 01:51:01,501 [Worker-28: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 01:51:01,503 [Worker-28: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 01:51:01,503 [Worker-28: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 01:51:01,503 [Worker-28: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 01:53:15,298 [Worker-26: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 01:53:15,298 [Worker-26: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 01:53:15,298 [Worker-26: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-30 01:53:15,364 [Worker-26: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 01:53:15,366 [Worker-26: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 01:53:15,366 [Worker-26: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 01:53:15,377 [Worker-26: Launching E-Gift_Card - EGiftCardApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 09:36:28,067 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-30 09:41:18,859 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 09:41:18,861 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 09:41:18,866 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-30 09:41:18,916 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 09:41:18,925 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 09:41:18,926 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 09:41:18,926 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 09:46:02,527 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 09:46:02,527 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 09:46:02,528 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 09:46:02,529 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 09:46:02,533 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 09:46:02,533 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 09:46:02,534 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 09:47:54,097 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 09:47:54,097 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 09:47:54,101 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-30 09:47:54,149 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 09:47:54,167 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 09:47:54,167 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 09:47:54,167 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 09:47:59,429 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 09:47:59,429 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 09:47:59,430 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-30 09:47:59,432 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 09:47:59,434 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 09:47:59,435 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 09:47:59,435 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 09:48:02,344 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 09:48:02,344 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 09:48:02,345 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-30 09:48:02,349 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 09:48:02,354 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 09:48:02,359 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 09:48:02,361 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 09:48:06,331 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 09:48:06,331 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 09:48:06,332 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-30 09:48:06,335 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 09:48:06,340 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 09:48:06,341 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 09:48:06,341 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 09:48:15,238 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 09:48:15,238 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 09:48:15,239 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-30 09:48:15,240 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 09:48:15,242 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 09:48:15,243 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 09:48:15,243 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 10:11:44,623 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:E-Gift_Card:0.0.1-SNAPSHOT @ E:\BootCampRestController\E-Gift_Card\pom.xml.
+2022-09-30 10:11:45,455 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:11:45,455 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:11:45,460 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:11:45,460 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:11:45,464 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:11:45,464 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:11:45,464 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 10:11:47,606 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:11:47,608 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:11:47,608 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-30 10:11:47,626 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:11:47,628 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:11:47,628 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:11:47,628 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 10:11:49,068 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.20/lombok-1.18.20-sources.jar
+2022-09-30 10:11:51,636 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.20/lombok-1.18.20-sources.jar
+2022-09-30 10:11:51,817 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.20
+2022-09-30 10:11:52,275 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:11:52,275 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:11:52,275 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:11:52,275 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:11:52,277 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:11:52,277 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:11:52,277 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 10:12:20,895 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:12:20,895 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:12:20,895 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-30 10:12:20,902 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:12:20,905 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:12:20,905 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:12:20,905 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 10:14:19,869 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:14:19,870 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:14:19,870 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:14:19,870 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:14:19,871 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:14:19,871 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:14:19,871 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 10:14:36,344 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:14:36,344 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:14:36,345 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-30 10:14:36,352 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:14:36,353 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:14:36,353 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:14:36,353 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 10:14:50,812 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:14:50,813 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:14:50,813 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:14:50,813 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:14:50,815 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:14:50,815 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:14:50,815 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 10:23:12,025 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-30 10:23:15,548 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:23:15,549 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:23:15,554 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-30 10:23:15,576 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:23:15,581 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:23:15,581 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:23:15,581 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 10:23:41,455 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:23:41,459 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:23:41,460 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:23:41,461 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:23:41,464 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:23:41,465 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:23:41,465 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 10:25:04,634 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:25:04,635 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:25:04,635 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:25:04,635 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:25:04,637 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:25:04,637 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:25:04,637 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 10:27:07,134 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:27:07,134 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:27:07,134 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:27:07,134 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:27:07,136 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:27:07,137 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:27:07,137 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 10:30:40,420 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:30:40,420 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:30:40,420 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:30:40,421 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 10:30:40,425 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 10:30:40,426 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 10:30:40,426 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 11:34:37,198 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-30 11:35:06,179 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 11:35:06,179 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 11:35:06,185 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-30 11:35:06,207 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 11:35:06,208 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 11:35:06,208 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 11:35:06,208 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
+2022-09-30 21:00:11,770 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-30 21:00:18,469 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 21:00:18,471 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 21:00:18,475 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-30 21:00:18,505 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-30 21:00:18,509 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-30 21:00:18,509 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-30 21:00:18,509 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\BootCampRestController\E-Gift_Card\src\test\resources
