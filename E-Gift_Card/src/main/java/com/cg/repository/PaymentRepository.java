@@ -10,10 +10,6 @@ import com.cg.entity.UserPayment;
 @Repository
 public interface PaymentRepository extends JpaRepository<UserPayment,Integer> {
 	public  UserPayment findByCardNumber(String cardNumber);
-	public List <UserPayment> findByNameonthecard(String card_name);
-	
+	public List <UserPayment> findByNameonthecard(String card_name);	
 	public UserPayment findByUserGiftId(int gift_id);
-
-	
-
 }

@@ -9,7 +9,5 @@ import com.cg.entity.UserGiftDetails;
 public interface UserGiftDetailsRepository extends JpaRepository<UserGiftDetails,Integer> {
 
 	public UserGiftDetails findByUserGiftId(int userGiftId);
-
 	public void deleteByUserGiftId(int userGiftId);
-
 }

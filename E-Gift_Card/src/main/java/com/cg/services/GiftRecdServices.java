@@ -1,7 +1,5 @@
 package com.cg.services;
 
-
-
 import java.util.Date;
 import java.util.List;
 
@@ -27,25 +25,24 @@ public class GiftRecdServices {
 	GiftCardManagementServices giftCardServices;
 	@Autowired
 	GiftCardRepository giftCardRepository;
+
 	public String saveOrUpdate(GiftRecdDetails giftRecdDetails) {
 		giftRecdRepository.save(giftRecdDetails);
 		return "Gift Recd Details";
-		
 	}
-	
+
 	public List<GiftRecdDetails> getAll() {
 		return giftRecdRepository.findAll();
 	}
+
 	public String receivedGift(UserGiftDetails userGiftDetails) throws UserNotFoundException {
-		//giftRecdRepository.save(userGiftDetails);
-		String email=userGiftDetails.getRecipientsEmail();
+		String email = userGiftDetails.getRecipientsEmail();
 		User user = userServices.getByEmail(email);
-		GiftCard giftcard = giftCardRepository.getById(userGiftDetails.getGiftCardId());
+		GiftCard giftcard = giftCardRepository.findById(userGiftDetails.getGiftCardId()).orElse(null);
 		GiftRecdDetails recdDetails = new GiftRecdDetails();
-		recdDetails.setUsers(user);
-		recdDetails.setGifts(giftcard);
+		recdDetails.setUser(user);
+		recdDetails.setGift(giftcard);
 		recdDetails.setGiftReceivedDate(new Date(System.currentTimeMillis()));
-		//recdDetails.setSerialNumber(2);
 		giftRecdRepository.save(recdDetails);
 		return "Gift Received Successfully";
 	}

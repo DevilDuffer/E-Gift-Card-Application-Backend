@@ -15,25 +15,25 @@ import com.cg.entity.GiftRecdDetails;
 import com.cg.entity.UserGiftDetails;
 import com.cg.exception.UserNotFoundException;
 import com.cg.services.GiftRecdServices;
-import com.cg.services.UserGiftDetailsAccountManagementServices;
+
 @RestController
-@CrossOrigin(origins="http://localhost:3000")
+@CrossOrigin(origins = "http://localhost:3000")
 public class GiftRecdController {
 
 	@Autowired
 	GiftRecdServices giftRecdServices;
-	
-	
+
 	@PostMapping("/receivedDetails")
 	public String addUser(@Valid @RequestBody GiftRecdDetails giftRecdDetails) {
 		giftRecdServices.saveOrUpdate(giftRecdDetails);
 		return "Gift Recd Details";
-		}
-	
+	}
+
 	@GetMapping("/getAllRecdDetails")
-	public List<GiftRecdDetails> getAllUser(){
+	public List<GiftRecdDetails> getAllUser() {
 		return giftRecdServices.getAll();
 	}
+
 	@PostMapping("/receiveGift")
 	public String receivedGift(@Valid @RequestBody UserGiftDetails userGiftDetails) throws UserNotFoundException {
 		giftRecdServices.receivedGift(userGiftDetails);

@@ -18,31 +18,34 @@ import com.cg.exception.UserGiftDetailsNotFoundException;
 import com.cg.services.UserGiftDetailsAccountManagementServices;
 
 @RestController
-@CrossOrigin(origins="http://localhost:3000")
+@CrossOrigin(origins = "http://localhost:3000")
 public class UserGiftDetailsController {
 
 	@Autowired
 	UserGiftDetailsAccountManagementServices userGiftDetailsServices;
+
 	@PostMapping("/generateGift")
 	public String generateGift(@Valid @RequestBody UserGiftDetails userGiftDetails) {
 		userGiftDetailsServices.saveOrUpdate(userGiftDetails);
 		return "Gift Send Successfully";
 	}
-	
+
 	@GetMapping("/getAllGeneratedGifts")
-	public List<UserGiftDetails> getAll(){
-		return userGiftDetailsServices.getAll();	
-		}
-	
+	public List<UserGiftDetails> getAll() {
+		return userGiftDetailsServices.getAll();
+	}
+
 	@GetMapping("/getAllGeneratedGifts/{userGiftId}")
-	public UserGiftDetails getByUserGiftId(@PathVariable("userGiftId") int userGiftId) throws UserGiftDetailsNotFoundException {
+	public UserGiftDetails getByUserGiftId(@PathVariable("userGiftId") int userGiftId)
+			throws UserGiftDetailsNotFoundException {
 		return userGiftDetailsServices.getByUserGiftId(userGiftId);
 	}
+
 	@DeleteMapping("/deleteGeneratedGift/{userGiftId}")
-	public String deleteByUserGiftId(@PathVariable("userGiftId") int userGiftId) throws UserGiftDetailsNotFoundException {
+	public String deleteByUserGiftId(@PathVariable("userGiftId") int userGiftId)
+			throws UserGiftDetailsNotFoundException {
 		userGiftDetailsServices.deleteByUserGiftDetailsId(userGiftId);
 		return "Generated Gift Deleted Successfully";
 	}
-	
-}
 
+}

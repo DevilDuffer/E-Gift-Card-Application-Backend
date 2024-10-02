@@ -9,5 +9,4 @@ public class EGiftCardApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EGiftCardApplication.class, args);
 	}
-
 }

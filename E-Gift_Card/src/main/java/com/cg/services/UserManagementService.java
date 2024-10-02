@@ -11,52 +11,32 @@ import com.cg.repository.UserRepository;
 
 @Service
 public class UserManagementService {
-	@Autowired 
+	@Autowired
 	UserRepository userRepository;
+
 	public String saveOrUpdate(User userRegistration) {
 		userRepository.save(userRegistration);
 		return "User Registered Successfully";
 	}
-	
+
 	public List<User> getAll() {
 		return userRepository.findAll();
 	}
-	
 
-	public List<User> getByFirstname(String fname) throws UserNotFoundException {
+	public User getByEmail(String email) throws UserNotFoundException {
 		try {
-			if(userRepository.findByFirstname(fname).isEmpty())
+			if (userRepository.findByEmail(email) == null) {
 				throw new UserNotFoundException();
-		}
-			catch(UserNotFoundException e) {
-				throw e;
 			}
-		
-	    return  userRepository.findByFirstname(fname);
+		} catch (UserNotFoundException e) {
+			throw e;
+		}
+		return userRepository.findByEmail(email);
 	}
-    public List<User> getByLastname(String lname) throws UserNotFoundException {
-		try {
-			if(userRepository.findByLastname(lname).isEmpty())
-				throw new UserNotFoundException();
-		}
-		catch(UserNotFoundException e) {
-			throw e;
-		}
-	    return  userRepository.findByLastname(lname);
-	} 
-    public User getByEmail(String email) throws UserNotFoundException {
-		try {
-			if(userRepository.findByEmail(email)==null)
-				throw new UserNotFoundException();
-		}
-		catch(UserNotFoundException e) {
-			throw e;
-		}
-	    return  userRepository.findByEmail(email);
-	} 
-    public User getByEmailAndPassword(String email,String password) {
-    	
-    	return userRepository.findByEmailAndPassword(email, password);
-    }
-    
+
+	public User getByEmailAndPassword(String email, String password) {
+
+		return userRepository.findByEmailAndPassword(email, password);
+	}
+
 }
